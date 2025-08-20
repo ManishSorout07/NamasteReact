@@ -1,0 +1,19 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Namaste React ",
+  "main": "app.js",
+  "scripts": {
+    "test": "jist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManishSorout07/NamasteReact.git"
+  },
+  "author": "Manish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManishSorout07/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/ManishSorout07/NamasteReact#readme"
+}

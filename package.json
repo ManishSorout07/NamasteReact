@@ -2,9 +2,9 @@
   "name": "namastereact",
   "version": "1.0.0",
   "description": "Namaste React ",
-  "main": "app.js",
   "scripts": {
-    "test": "jist"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/ManishSorout07/NamasteReact#readme",
   "devDependencies": {
     "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   }
 }
